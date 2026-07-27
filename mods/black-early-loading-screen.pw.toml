@@ -1,0 +1,13 @@
+name = "Black Early Loading Screen"
+filename = "blackearlyloading-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HlKuU6a8/versions/eONrSDvP/blackearlyloading-1.0.0.jar"
+hash-format = "sha512"
+hash = "22901a8ce18fb10789096fc1c32aaf5c3a586fe955175599e7e34e36d0fdb912c47b7701050c37ec8b68b08995a8aa47aa3fc7fee65ad6be6592c20a51245511"
+
+[update]
+[update.modrinth]
+mod-id = "HlKuU6a8"
+version = "eONrSDvP"

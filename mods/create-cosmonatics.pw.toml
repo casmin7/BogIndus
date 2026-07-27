@@ -1,0 +1,13 @@
+name = "Create Cosmonautics"
+filename = "cosmonautics-26.07.274.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/micg1iTH/versions/7HWYgFff/cosmonautics-26.07.274.jar"
+hash-format = "sha512"
+hash = "3a20a17956e9d6e73fe6d0967b44c13dcba1be42e674714d3c61b1699549800be9d238935671d64daa104e98096b2d9d839370c194b83c478512b97dabc908e2"
+
+[update]
+[update.modrinth]
+mod-id = "micg1iTH"
+version = "7HWYgFff"

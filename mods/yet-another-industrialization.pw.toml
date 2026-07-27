@@ -1,0 +1,13 @@
+name = "Yet Another Industrialization!"
+filename = "yet_another_industrialization-1.6.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jXqDKaST/versions/MA6TYtbD/yet_another_industrialization-1.6.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "6b42b1eeb3aabd36cb3b1a57e1987183db17ef1f27b824227d33f36dcb538a5706feb1ca359d1ebd7dc8867497f2bb05db62347cd1cf2f5b45ff420284c5ffeb"
+
+[update]
+[update.modrinth]
+mod-id = "jXqDKaST"
+version = "MA6TYtbD"

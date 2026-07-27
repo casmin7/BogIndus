@@ -1,0 +1,13 @@
+name = "Item Zoomer"
+filename = "itemzoomer-neoforge-2.2.2-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OgBgQ2NP/versions/tYqULFCV/itemzoomer-neoforge-2.2.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "90e362379fa685407d1a1d343f7138840c362b95aa298856986ecdad88d03c3f76bc02e41ea318f0a82eb322ca2a0bdae5ccf370818526cf046c47ca8c499766"
+
+[update]
+[update.modrinth]
+mod-id = "OgBgQ2NP"
+version = "tYqULFCV"

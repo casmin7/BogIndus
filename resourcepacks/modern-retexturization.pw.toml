@@ -1,0 +1,13 @@
+name = "Modern Retexturization"
+filename = "Modern Retexturization.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bd014626dc7880410632aeb94b172b4c9104d30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8386321
+project-id = 1554509

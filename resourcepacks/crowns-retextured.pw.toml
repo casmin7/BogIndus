@@ -1,0 +1,13 @@
+name = "Create CROWNS: Retextured"
+filename = "CROWNS Retextured v1.1.1 - 1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lCSsvT16/versions/C2hWwFqo/CROWNS%20Retextured%20v1.1.1%20-%201.21.1.zip"
+hash-format = "sha512"
+hash = "9318bd4e5d15e9d06120e2fe831ce5a3299997a458f166a5519f05b293cded8cc2809070f7dcf2e935cd0b81cfd987ee162655c5b6dd3983dc2b39082e213f19"
+
+[update]
+[update.modrinth]
+mod-id = "lCSsvT16"
+version = "C2hWwFqo"

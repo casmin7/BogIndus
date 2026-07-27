@@ -1,0 +1,13 @@
+name = "Create: Electro Extras"
+filename = "electroextras-1.0.1a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p4pV2Yz5/versions/Yl5RQhPr/electroextras-1.0.1a.jar"
+hash-format = "sha512"
+hash = "66cac67bb70bdd8e66cf1d923d9ba2330763ba357d93b6464ce81ee25ca8bcba2b280777c01f4c9be47bdee80857babd3c3f9752e9192c1ba1537a15eff5fbbb"
+
+[update]
+[update.modrinth]
+mod-id = "p4pV2Yz5"
+version = "Yl5RQhPr"

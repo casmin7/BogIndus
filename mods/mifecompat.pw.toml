@@ -1,0 +1,13 @@
+name = "Modern industrialization FE compat"
+filename = "mi-fe-compat-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O8EAew6U/versions/UQBHVxcp/mi-fe-compat-1.0.2.jar"
+hash-format = "sha512"
+hash = "41dc10099f5db905978940fc618793e221e0c741b24071242189a9cbafacf19c1a7ec4c68666f31f57b0bf7d577cc22a58e1e400f14827c8a7e94cd0e7220bbf"
+
+[update]
+[update.modrinth]
+mod-id = "O8EAew6U"
+version = "UQBHVxcp"

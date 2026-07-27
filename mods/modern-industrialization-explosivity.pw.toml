@@ -1,0 +1,13 @@
+name = "Modern Industrialization Explosivity"
+filename = "modern_industrialization_explosivity-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PpLjNwOV/versions/DuhW881v/modern_industrialization_explosivity-1.1.2.jar"
+hash-format = "sha512"
+hash = "afeb935cb11d9e0e15a21d8c39c3338d1904911b6097c6ae3d35720b5c6dd1228d93a3019caa9bc60930f97f8e618d426c40e5fe50945061d10912403c1327b5"
+
+[update]
+[update.modrinth]
+mod-id = "PpLjNwOV"
+version = "DuhW881v"

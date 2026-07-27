@@ -1,0 +1,13 @@
+name = "Dark Loading Screen Neoforge"
+filename = "dark_loading_screen-1.0.0+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4JJH4IlH/versions/fzXOEJjE/dark_loading_screen-1.0.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "82743f65f533d6b304616753462e9f9baddb267b4a343a5bfa8689de7f39b86f47faa667ccb6886a47585ede3ff77b2e6401aec68bde4cf49fe14ec331557893"
+
+[update]
+[update.modrinth]
+mod-id = "4JJH4IlH"
+version = "fzXOEJjE"
