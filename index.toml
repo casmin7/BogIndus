@@ -1395,6 +1395,11 @@ hash = "ee80c79a2a778b9e369ef4d0e9fb28db552a2b09d738b4d825dda2856a51911b"
 metafile = true
 
 [[files]]
+file = "mods/dap-ur-homies-unofficially-neoforged.pw.toml"
+hash = "72c372f5b5f14b3a566e22b21ea68c5dca8e2b040b1d18cbb490aa769a8eacbc"
+metafile = true
+
+[[files]]
 file = "mods/dap-ur-homies.pw.toml"
 hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
@@ -1651,12 +1656,12 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "232f7c77717ba691dd87661d830c40e6f60f99d04c0af6b75b128602e513da77"
+hash = "ff0b2e2116e40733173c4e6654e838e196cd227f75533befd442b4e8c38b0c79"
 metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "92a299204f6b5bb0f39900d5866df154ad360b83a035060e25aec50baa6e305f"
+hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
 metafile = true
 
 [[files]]
