@@ -1281,7 +1281,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cosmonatics.pw.toml"
-hash = "3c73a9b8fb598cf6f4b21240a137de151a1233fe9c604cc63a88f1aadb9e7c9f"
+hash = "85db243bd9495608c9b8bcee8482c4f2b4b1761d12c108a741139fb498cb5e3c"
 metafile = true
 
 [[files]]
@@ -1306,7 +1306,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "be907681f0690825470dce93d6bf60ea522d357601bd9873f33023a169eee927"
+hash = "9c112af813c1f7540c3d198f38c8733fb7d983f459b1d20e372402af16d07f7d"
 metafile = true
 
 [[files]]
@@ -1392,6 +1392,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "ee80c79a2a778b9e369ef4d0e9fb28db552a2b09d738b4d825dda2856a51911b"
+metafile = true
+
+[[files]]
+file = "mods/dap-ur-homies.pw.toml"
+hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
 
 [[files]]
@@ -1596,7 +1601,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization-sound-addon.pw.toml"
-hash = "0960ba66bb1c037f795ec7323d908701d110ebf14d899779955c3677fc5e2df6"
+hash = "d294d17e4b0be0a050a429359aba62a056271743e40e8c355ea4c901e6cb9ff2"
 metafile = true
 
 [[files]]
@@ -1646,12 +1651,12 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "657be9b7d7edf268c16130fc424184b9bef8b82d3370cdbb059746c329968dc9"
+hash = "232f7c77717ba691dd87661d830c40e6f60f99d04c0af6b75b128602e513da77"
 metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "9a672a2087bad70f2df50e55a8b1aa25d78967d4deacf0aaf9af185296901e61"
+hash = "92a299204f6b5bb0f39900d5866df154ad360b83a035060e25aec50baa6e305f"
 metafile = true
 
 [[files]]
