@@ -1405,6 +1405,11 @@ hash = "3bde919edab773fe905cc3ca152418824b1c19890d2e4b5b131416c665ba54fb"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a48ff4f8b66a3d861eb5601937790129225b6a6f5f1e1b7fbcffbd17674b2ae0"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "57184ad47c87fad969995a887d7be56636c698d1d94f4db5d8a6816ef6fadcd8"
 metafile = true
@@ -1651,12 +1656,12 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "ff0b2e2116e40733173c4e6654e838e196cd227f75533befd442b4e8c38b0c79"
+hash = "794eb18c1049220022158f248ccf32f7bf53e7e0940ba546f0f47962395df10c"
 metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
+hash = "d225d1eccf2799297f286cfb85f0c88b745768b8aa56745909779dd1a36487fb"
 metafile = true
 
 [[files]]
@@ -1752,6 +1757,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "b2bdd7558fd44a5d7f24d1005f27119814761cf78135acefeb1625157ecee859"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "766b572c04713db66db95499bb8d86554c57d0d57cf0220bbfbb82300cc2bf39"
 metafile = true
 
 [[files]]

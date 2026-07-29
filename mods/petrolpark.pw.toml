@@ -1,6 +1,7 @@
 name = "Petrolpark's Library"
 filename = "petrolpark-1.21.1-1.4.36.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ik2WZkTZ/versions/4NOlw0J6/petrolpark-1.21.1-1.4.36.jar"
