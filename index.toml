@@ -1546,11 +1546,6 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "550b58b50a1b268d5cc93808ac84c47b758f0312adb6f617d121f863bb4b4bde"
-metafile = true
-
-[[files]]
 file = "mods/merequester.pw.toml"
 hash = "8f638da7fdf14f7c9cdc0687f7cae53e020736ab8a3b92e9c3fe123a212e1550"
 metafile = true
@@ -1718,11 +1713,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
-metafile = true
-
-[[files]]
-file = "mods/still-life.pw.toml"
-hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
 metafile = true
 
 [[files]]
