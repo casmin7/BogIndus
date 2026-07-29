@@ -1176,11 +1176,6 @@ hash = "0c098f4b25485f291dc218347f5076504ae6bff78debf29a4f6264b274d58a5b"
 metafile = true
 
 [[files]]
-file = "mods/carryon-aeronautics-compat.pw.toml"
-hash = "e334e82ac7dee69f5a27fdd852851b9564fc7cdda6deb3d36be4e2a42e56b7f9"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d6aca5d1ec25cd69e03b9cb0f28d6e56cecc50b91d3051b476f7a546fe297f57"
 metafile = true
