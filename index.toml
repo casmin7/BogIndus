@@ -1400,11 +1400,6 @@ hash = "72c372f5b5f14b3a566e22b21ea68c5dca8e2b040b1d18cbb490aa769a8eacbc"
 metafile = true
 
 [[files]]
-file = "mods/dap-ur-homies.pw.toml"
-hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen-neoforge.pw.toml"
 hash = "3bde919edab773fe905cc3ca152418824b1c19890d2e4b5b131416c665ba54fb"
 metafile = true
@@ -1667,6 +1662,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "5db92d335ac2ebfdbe88b369b4b4350b616d3fb19d93dccbeabb481322b378d5"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "724daaea2150eeb1baf560e2a88afccd01c5a49cc3e36d114219ad62f55c7ca2"
 metafile = true
 
 [[files]]
