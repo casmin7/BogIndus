@@ -111,3 +111,37 @@ wrench_volume = 1.0
 # Default: 1.0
 # Range: 0.0 ~ 5.0
 replicator_volume = 1.0
+wrench_sounds_enabled = true
+config_card_sounds_enabled = true
+#Config Card Volume
+# Default: 1.0
+# Range: 0.0 ~ 5.0
+config_card_volume = 1.0
+#Composter Volume (EI)
+# Default: 1.0
+# Range: 0.0 ~ 5.0
+composter_volume = 1.0
+#Alloy Smelter Volume (EI)
+# Default: 1.0
+# Range: 0.0 ~ 5.0
+alloy_smelter = 1.0
+#Bending Machine Volume (EI)
+# Default: 1.0
+# Range: 0.0 ~ 5.0
+bending_machine = 1.0
+#Canning Machine Volume (EI)
+# Default: 1.0
+# Range: 0.0 ~ 5.0
+canning_machine = 1.0
+#Tesla Coil Volume (EI)
+# Default: 1.0
+# Range: 0.0 ~ 5.0
+tesla_coil = 1.0
+#Tesla Tower Volume (EI)
+# Default: 1.0
+# Range: 0.0 ~ 5.0
+tesla_tower = 1.0
+#Pyrolyse Oven Volume (IO)
+# Default: 1.0
+# Range: 0.0 ~ 5.0
+pyrolyse_oven = 1.0

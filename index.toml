@@ -1360,6 +1360,11 @@ hash = "c72cb10e651952dcb0bbf0d38ddfd5609e2f43d8a48cd7a4f33ceaec2e93df07"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
+metafile = true
+
+[[files]]
 file = "mods/create-radars.pw.toml"
 hash = "527eeb01b1e311ff8eed49ba110faa40fdebdff587c52b2e77b5731d575295b2"
 metafile = true
