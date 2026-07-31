@@ -1305,6 +1305,11 @@ hash = "9716d15e12bf3d030d9655176cc66f8a336560e3f445bc0f4825d70dc4ef6247"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
+metafile = true
+
+[[files]]
 file = "mods/black-early-loading-screen.pw.toml"
 hash = "42e72348dc8222321b6466b1902b0056219bd1bcf4df91d16ab026a0c73b8696"
 metafile = true
@@ -1525,6 +1530,11 @@ hash = "3bde919edab773fe905cc3ca152418824b1c19890d2e4b5b131416c665ba54fb"
 metafile = true
 
 [[files]]
+file = "mods/dashpanels.pw.toml"
+hash = "43c4b76af55232b5277e9466286ba07ba8b8f5de2a59a65bfda26c514311654f"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a48ff4f8b66a3d861eb5601937790129225b6a6f5f1e1b7fbcffbd17674b2ae0"
 metafile = true
@@ -1640,6 +1650,11 @@ hash = "fd32082bdf890991ea07acd9e16f726ccb73ae2b927731b4eeb6791c0ff7aca4"
 metafile = true
 
 [[files]]
+file = "mods/incapacitated.pw.toml"
+hash = "199cfc53716e9b5cfb33fcd550dff7fcf2e1163dceaf736ab9a5b42f4c2836be"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "6f38eede2d3c4d9d93422447e7f94a85b9cadba051553be294acff2587ae86ce"
 metafile = true
@@ -1697,6 +1712,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "5554dc0e228bb51557313dd1b0c9493c9e575390a6713a8f6415d3aede09cce0"
+metafile = true
+
+[[files]]
+file = "mods/lever-drugster.pw.toml"
+hash = "8424713cff9ab8667f0c10791a3777aa331c7ea928c563a668b153cb7dbe3a67"
 metafile = true
 
 [[files]]
@@ -1882,11 +1902,6 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "766b572c04713db66db95499bb8d86554c57d0d57cf0220bbfbb82300cc2bf39"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "f114030e6984e30307fc43e37ec812c915aed7f64717d7b364dd84008e045fe4"
 metafile = true
 
 [[files]]
