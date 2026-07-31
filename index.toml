@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "e88ab7e29004cf2a5c7560a9a4102ea1b542c08e6d8ab1401b4c73542e3d598e"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -114,7 +118,7 @@ hash = "47a015989efd4754fbf33a225f07328998919fde0a2b388c6fdf8316f38bf19a"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "0657fa77f4f251d9ee52137e14cbaebc91a93c17f5a144ca1f349958bb0e760c"
+hash = "8ce4b2880448d1f8eeaf2018c34ab27e8e2c2635ea19d2ef5c5e66ee547d8021"
 
 [[files]]
 file = "config/carryon-client.toml"
@@ -161,6 +165,10 @@ file = "config/comforts-server.toml"
 hash = "f6df47d3f1002fde8d9e59c8068acbc39e976b3392e8fd528dc9b38b2856c5a0"
 
 [[files]]
+file = "config/coopmoves.json"
+hash = "b68d5f814fb4f9cfa2efdb8e6f5dbd29f5aae9a95904168faabb8dbb776758c7"
+
+[[files]]
 file = "config/create-client-2.toml.bak"
 hash = "7e89f734d1ad14a223077d07bf56e5234214daa3ab0485619f9ff1f7513998dc"
 
@@ -205,8 +213,12 @@ file = "config/create_dragons_plus-common.toml"
 hash = "134e5d1beb5e8cc7f22e20178c2a995ab4e1e83ddeca8048739ed000fc3a964e"
 
 [[files]]
-file = "config/create_dragons_plus-server.toml"
+file = "config/create_dragons_plus-server-1.toml.bak"
 hash = "06c232854b6d18ea18bd9bbbed7a0317c0113aad12734066a46a1d9d28278520"
+
+[[files]]
+file = "config/create_dragons_plus-server.toml"
+hash = "47e050101c966794084bac8f993110729973a054a9bae0efa8edb76c426f1007"
 
 [[files]]
 file = "config/create_dragons_plus-simulated-extension-server.toml"
@@ -362,7 +374,7 @@ hash = "ff8187498824d7ce37ea7b464701658bef2d11c8323158f89edb2fa3a40a2401"
 
 [[files]]
 file = "config/emi.css"
-hash = "b2fefce8b997851759990d1ec0c71d4be631e435857eb7b19516e4806986ac34"
+hash = "ed97f382cabfb2668d25dd96d5a7c0ce5a6e26d08cf8a3bf92db911911c0f0db"
 
 [[files]]
 file = "config/emi_patternizer-client.toml"
@@ -466,7 +478,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "635f2540d362d1f7deaea4c29827fba38512588f74cb3b8c7d415608cb79a95f"
+hash = "4da4c2ea5fe1d32aa093826aa4cd18a00d6b0c99f784134e7d00435c0bb05b54"
 
 [[files]]
 file = "config/itemzoomer.json"
@@ -505,6 +517,14 @@ file = "config/lightspeed-common.toml"
 hash = "17f702e32a6ff55bcffb8cc078e8d924b0ca43a8fed02b5c83dfb607d258c638"
 
 [[files]]
+file = "config/liteminer-client.toml"
+hash = "21a77155340880f297293345828268b5fb9a3cb5e7a4ba6e6b27cb5c3cb8e93f"
+
+[[files]]
+file = "config/liteminer-common.toml"
+hash = "4598eef0a6bcd3008f52c99675d46a35cae3e04f160624c9f8b0626ce072d1cb"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a"
 
@@ -514,11 +534,15 @@ hash = "e1bc97c0e0727f94d750f6391420860aa09b88e73e82584d4d235764bc2d1acf"
 
 [[files]]
 file = "config/mi_sound_addon-common-1.toml.bak"
+hash = "9befcfe6fd8635b7df5e2388a0e069a5df348abfb0330713dd51cec41a3890a4"
+
+[[files]]
+file = "config/mi_sound_addon-common-2.toml.bak"
 hash = "81580029a6050e283392e7280e3481aa0f3ec2f885cb9cfa0706a327ccff0726"
 
 [[files]]
 file = "config/mi_sound_addon-common.toml"
-hash = "9befcfe6fd8635b7df5e2388a0e069a5df348abfb0330713dd51cec41a3890a4"
+hash = "584548a5f452469acc5cf34b1798e018146fa02688bf5f3d3f9af0031c121ac9"
 
 [[files]]
 file = "config/modern_industrialization-client.toml"
@@ -746,7 +770,7 @@ hash = "35d3939d1bc306839c6ad538803288b3d2bc8a2dfed4948eae569d540d6b8058"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
@@ -771,6 +795,10 @@ hash = "9dd80f857a1c4bc45b93e65c695ebc10460c32fd284c8c4d22e32a4458a2e777"
 [[files]]
 file = "config/spark/tmp/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+
+[[files]]
+file = "config/ssrd-common.toml"
+hash = "f02c4f19736ba21f48c0100128ad3208d2cec4e2fae2fa52b3a3b8639cc69c3c"
 
 [[files]]
 file = "config/streamsreflowing-client.toml"
@@ -1066,7 +1094,7 @@ hash = "eb37439ac1a4633abb668994a02d5172a93d1076d2a83532b2c3fd3e17cab232"
 
 [[files]]
 file = "config/zfastnoise.mixin.properties"
-hash = "d35bbb9decb8fa5505490b4d10a2db54668ba9ffd5193521dae4caf99f3b3df2"
+hash = "ba290537546c0e3cfb4ad82737dccf86723b95e10602348fc9eae4871e8cf554"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1090,15 +1118,107 @@ hash = "ea6198e5d63a24f8b83d8586df0a7fc8b6ec0e11730531e31bc7a61af6693a5f"
 
 [[files]]
 file = "kubejs/config/common.json"
-hash = "249e5b59ba852d896a8a77a2d4e5642c69b2e832e83bc6a19572471995db69e9"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/web_server.json"
 hash = "d2f16fa297b3a6a1491ea707aeb2f7ba1a4ceb85f57a6433bf71c613e8f5bcc2"
 
 [[files]]
+file = "kubejs/data/createmetallurgy/worldgen/configured_feature/wolframite_ore.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/crowns/worldgen/configured_feature/uranium_overworld_replacement.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_antimony.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_bauxite.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_lead.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_monazite.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_nickel.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_salt.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_tin.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_tungsten.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/deepslate_ore_generator_uranium.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_antimony.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_bauxite.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_lead.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_monazite.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_nickel.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_salt.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_tin.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_tungsten.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/worldgen/configured_feature/ore_generator_uranium.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/rocketnautics/worldgen/configured_feature/titanium_ore.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/server_scripts/create_excavation_veins.js"
+hash = "89dd0c49b67dd4d434d8ea179b7ad07a4c8bc8c8b81d9b643665558857c292ca"
+
+[[files]]
+file = "kubejs/server_scripts/hide.js"
+hash = "286d7700efd65e173302ab98a8677d9ae2fc2e1d71662f82f21b9d6bd7e5ccbc"
+
+[[files]]
 file = "kubejs/server_scripts/resorceUnify.js"
-hash = "ca26f912f8c30623c01c8abc4f06a106c3a9ecbc879c486a0e10b5c5cbdcbb03"
+hash = "8963baf8038167f2ae0baf2614048e191a530c3d052a7918dc9471e702a63393"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
