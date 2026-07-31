@@ -3725,6 +3725,22 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "create_power_loader:andesite_chunk_loader": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "create_power_loader:brass_chunk_loader": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "create_power_loader:empty_andesite_chunk_loader": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "create_power_loader:empty_brass_chunk_loader": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
   "create_radar:auto_pitch_controller": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -6461,138 +6477,6 @@
     "maxWaterDepth": 168,
     "implosionChance": 0.05
   },
-  "createpropulsion:advanced_tilt_adapter": {
-    "maxWaterDepth": 70,
-    "implosionChance": 0.58
-  },
-  "createpropulsion:cable": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "createpropulsion:cable_hub": {
-    "maxWaterDepth": 85,
-    "implosionChance": 0.49
-  },
-  "createpropulsion:cable_relay": {
-    "maxWaterDepth": 85,
-    "implosionChance": 0.49
-  },
-  "createpropulsion:copycat_wing": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.81666666
-  },
-  "createpropulsion:copycat_wing_12": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.81666666
-  },
-  "createpropulsion:copycat_wing_8": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.81666666
-  },
-  "createpropulsion:coral": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "createpropulsion:coral_generator": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "createpropulsion:creative_thruster": {
-    "maxWaterDepth": 151,
-    "implosionChance": 0.1
-  },
-  "createpropulsion:creative_vector_thruster": {
-    "maxWaterDepth": 151,
-    "implosionChance": 0.1
-  },
-  "createpropulsion:deepslate_platinum_ore": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "createpropulsion:ion_thruster": {
-    "maxWaterDepth": 151,
-    "implosionChance": 0.1
-  },
-  "createpropulsion:liquid_burner": {
-    "maxWaterDepth": 42,
-    "implosionChance": 0.75
-  },
-  "createpropulsion:liquid_vector_thruster": {
-    "maxWaterDepth": 151,
-    "implosionChance": 0.1
-  },
-  "createpropulsion:oxidizer": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "createpropulsion:platinum_block": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "createpropulsion:platinum_casing": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "createpropulsion:platinum_fluid_tank": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "createpropulsion:platinum_fluid_vessel": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "createpropulsion:platinum_ore": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "createpropulsion:raw_platinum_block": {
-    "maxWaterDepth": 98,
-    "implosionChance": 0.41333333
-  },
-  "createpropulsion:redstone_converter": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createpropulsion:redstone_transmission": {
-    "maxWaterDepth": 70,
-    "implosionChance": 0.58
-  },
-  "createpropulsion:solid_burner": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "createpropulsion:solid_fuel_thruster": {
-    "maxWaterDepth": 151,
-    "implosionChance": 0.1
-  },
-  "createpropulsion:stirling_engine": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "createpropulsion:tempered_wing": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
-  "createpropulsion:thruster": {
-    "maxWaterDepth": 151,
-    "implosionChance": 0.1
-  },
-  "createpropulsion:tilt_adapter": {
-    "maxWaterDepth": 70,
-    "implosionChance": 0.58
-  },
-  "createpropulsion:turpentine": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "createpropulsion:vector_thruster": {
-    "maxWaterDepth": 151,
-    "implosionChance": 0.1
-  },
-  "createpropulsion:wing": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.8333333
-  },
   "createrailwaysnavigator:advanced_display": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -6676,6 +6560,22 @@
   "crowns:uranium_ore": {
     "maxWaterDepth": 73,
     "implosionChance": 0.56
+  },
+  "dashpanels:cable": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "dashpanels:control_panel": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "dashpanels:panel_link": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "dashpanels:stripped_cable": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
   },
   "dragonlib:dragon": {
     "maxWaterDepth": 27,
@@ -13277,14 +13177,6 @@
     "maxWaterDepth": 98,
     "implosionChance": 0.41333333
   },
-  "myotus:charged_ender_pearl_block": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "myotus:ender_pearl_block": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
   "oceansdelight:guardian_soup": {
     "maxWaterDepth": 39,
     "implosionChance": 0.76666665
@@ -14160,10 +14052,6 @@
   "sliceanddice:sprinkler": {
     "maxWaterDepth": 67,
     "implosionChance": 0.6
-  },
-  "streamsreflowing:stream": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
   },
   "trading_floor:trading_depot": {
     "maxWaterDepth": 30,

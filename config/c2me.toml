@@ -218,3 +218,72 @@ globalExecutorParallelism = "default"
 	chunkDataCacheSoftLimit = "default"
 	# (Default: 32678) Hard limit for io worker nbt cache
 	chunkDataCacheLimit = "default"
+
+[openclAccel]
+	# (Default: true) Enable OpenCL acceleration for world generation.
+	# 
+	enabled = "default"
+	# (Default: 32) Maximum number of concurrent tasks per device
+	# Increasing this may increase the performance and will increase the VRAM usage
+	# 
+	maxConcurrentTasksPerDevice = "default"
+	# (Default: true) Whether to attempt to lower the priority of the command queues
+	# This may reduce the fps drop caused by the OpenCL acceleration
+	# 
+	# Requires cl_khr_priority_hints and cl_khr_throttle_hints
+	# 
+	lowPriorityQueues = "default"
+	# (Default: true) Whether to prefer fast compilation with noinline hints
+	# 
+	preferFastCompilation = "default"
+	# (Default: false) Whether to allow the usage of CPU OpenCL devices
+	# 
+	allowCPUDevices = "default"
+	# (Default: true) Whether to allow the usage of GPU OpenCL devices
+	# 
+	allowGPUDevices = "default"
+	# (Default: true) Whether to allow the usage of Accelerator OpenCL devices
+	# 
+	allowAcceleratorDevices = "default"
+	# (Default: false) Whether to allow falling back to non-OpenCL world generation if OpenCL initialization fails
+	# 
+	allowIncompatibilityFallback = "default"
+	# (Default: false) Overrides the built-in blocklist and enables acceleration on unsupported configurations
+	# 
+	disableBuiltinDeviceBlocklist = "default"
+	# (Default: true) Enables fast compilation options for intel GPUs
+	# 
+	enableIntelFastCompilation = "default"
+	# (Default: true) Enables fast compilation options for nvidia GPUs
+	# 
+	# This *will* decrease GPU-bound throughput by roughly 20%
+	# 
+	enableNvidiaFastCompilation = "default"
+	# (Default: false) Whether to use smaller batches in worldgen
+	# 
+	# Smaller batches helps older iGPUs to avoid tripping GPU timeouts,
+	# but it *will* reduce scheduling efficiency for modern GPUs
+	# 
+	useSmallerBatches = "default"
+	# (Default: true) Whether to use the default device prioritization strategy
+	# 
+	# For stability reasons:
+	# - Disable Intel GPUs if anything else is present on Windows
+	# - Disable Intel Gen9 iGPUs if anything else is present on Linux
+	# - Disable Nvidia GPUs if anything else is present on Linux
+	# 
+	useDevicePrioritization = "default"
+	# (Default: false) Whether to perform explicit flushes after every batch
+	# 
+	doExplicitFlushes = "default"
+	# (Default: ) A comma-separated list of device UUIDs to blacklist
+	# You can find the UUIDs in the log when the OpenCL devices are enumerated
+	# Example: "951e5ce5-ccec-4a37-9ece-d0a800662d8f,3e825b77-fa62-403e-9155-aed1c014b2a2"
+	# 
+	deviceUUIDBlacklist = "default"
+	# (Default: ) A comma-separated list of device UUIDs to whitelist
+	# If non-empty, only the devices in this list will be used
+	# You can find the UUIDs in the log when the OpenCL devices are enumerated
+	# Example: "951e5ce5-ccec-4a37-9ece-d0a800662d8f,3e825b77-fa62-403e-9155-aed1c014b2a2"
+	# 
+	deviceUUIDWhitelist = "default"
