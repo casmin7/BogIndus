@@ -2,7 +2,7 @@ ServerEvents.recipes(event => {
     
     // --- Antimony ---
     event.recipes.createoreexcavation.vein('{"text": "Antimony Vein"}', 'modern_industrialization:raw_antimony')
-        .placement(128, 32, 10000001)
+        .placement(128, 16, 10000001)
         .id("kubejs:vein_antimony");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_antimony', 'kubejs:vein_antimony', 100)
@@ -11,7 +11,7 @@ ServerEvents.recipes(event => {
 
     // --- Bauxite ---
     event.recipes.createoreexcavation.vein('{"text": "Bauxite Vein"}', 'modern_industrialization:bauxite_crushed_dust')
-        .placement(128, 32, 10000002)
+        .placement(128, 16, 10000002)
         .id("kubejs:vein_bauxite");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:bauxite_crushed_dust', 'kubejs:vein_bauxite', 100)
@@ -20,7 +20,7 @@ ServerEvents.recipes(event => {
 
     // --- Lead ---
     event.recipes.createoreexcavation.vein('{"text": "Lead Vein"}', 'modern_industrialization:raw_lead')
-        .placement(128, 32, 10000003)
+        .placement(128, 16, 10000003)
         .id("kubejs:vein_lead");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_lead', 'kubejs:vein_lead', 100)
@@ -29,7 +29,7 @@ ServerEvents.recipes(event => {
 
     // --- Lignite Coal ---
     event.recipes.createoreexcavation.vein('{"text": "Lignite Coal Vein"}', 'modern_industrialization:lignite_coal')
-        .placement(128, 32, 10000004)
+        .placement(128, 16, 10000004)
         .id("kubejs:vein_lignite_coal");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:lignite_coal', 'kubejs:vein_lignite_coal', 100)
@@ -38,7 +38,7 @@ ServerEvents.recipes(event => {
 
     // --- Monazite ---
     event.recipes.createoreexcavation.vein('{"text": "Monazite Vein"}', 'modern_industrialization:monazite_crushed_dust')
-        .placement(128, 32, 10000005)
+        .placement(128, 16, 10000005)
         .id("kubejs:vein_monazite");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:monazite_crushed_dust', 'kubejs:vein_monazite', 100)
@@ -49,7 +49,7 @@ ServerEvents.recipes(event => {
 
     // --- Nickel ---
     event.recipes.createoreexcavation.vein('{"text": "Nickel Vein"}', 'modern_industrialization:raw_nickel')
-        .placement(128, 32, 10000006)
+        .placement(128, 16, 10000006)
         .id("kubejs:vein_nickel");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_nickel', 'kubejs:vein_nickel', 100)
@@ -58,7 +58,7 @@ ServerEvents.recipes(event => {
 
     // --- Salt ---
     event.recipes.createoreexcavation.vein('{"text": "Salt Vein"}', 'modern_industrialization:salt_crushed_dust')
-        .placement(128, 32, 10000007)
+        .placement(128, 16, 10000007)
         .id("kubejs:vein_salt");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:salt_crushed_dust', 'kubejs:vein_salt', 100)
@@ -67,7 +67,7 @@ ServerEvents.recipes(event => {
 
     // --- Tin ---
     event.recipes.createoreexcavation.vein('{"text": "Tin Vein"}', 'modern_industrialization:raw_tin')
-        .placement(128, 32, 10000008)
+        .placement(128, 16, 10000008)
         .id("kubejs:vein_tin");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_tin', 'kubejs:vein_tin', 100)
@@ -76,7 +76,7 @@ ServerEvents.recipes(event => {
 
     // --- Tungsten ---
     event.recipes.createoreexcavation.vein('{"text": "Tungsten Vein"}', 'modern_industrialization:raw_tungsten')
-        .placement(128, 32, 10000009)
+        .placement(128, 16, 10000009)
         .id("kubejs:vein_tungsten");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_tungsten', 'kubejs:vein_tungsten', 100)
@@ -87,7 +87,7 @@ ServerEvents.recipes(event => {
 
     // --- Uranium ---
     event.recipes.createoreexcavation.vein('{"text": "Uranium Vein"}', 'modern_industrialization:raw_uranium')
-        .placement(128, 32, 10000010)
+        .placement(128, 16, 10000010)
         .id("kubejs:vein_uranium");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_uranium', 'kubejs:vein_uranium', 100)
@@ -97,7 +97,7 @@ ServerEvents.recipes(event => {
 
     // --- Iridium ---
     event.recipes.createoreexcavation.vein('{"text": "Iridium Vein"}', 'modern_industrialization:raw_iridium')
-        .placement(128, 32, 10000011)
+        .placement(128, 16, 10000011)
         .id("kubejs:vein_iridium");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_iridium', 'kubejs:vein_iridium', 100)
@@ -107,7 +107,7 @@ ServerEvents.recipes(event => {
 
     // --- Titanium ---
     event.recipes.createoreexcavation.vein('{"text": "Titanium Vein"}', 'modern_industrialization:raw_titanium')
-        .placement(128, 32, 10000012)
+        .placement(128, 16, 10000012)
         .id("kubejs:vein_titanium");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_titanium', 'kubejs:vein_titanium', 100)
@@ -118,7 +118,7 @@ ServerEvents.recipes(event => {
 
     // --- Platinum ---
     event.recipes.createoreexcavation.vein('{"text": "Platinum Vein"}', 'modern_industrialization:raw_platinum')
-        .placement(128, 32, 10000013)
+        .placement(128, 16, 10000013)
         .id("kubejs:vein_platinum");
 
     event.recipes.createoreexcavation.drilling('modern_industrialization:raw_platinum', 'kubejs:vein_platinum', 100)
@@ -128,7 +128,7 @@ ServerEvents.recipes(event => {
 
     // --- Oil ---
     event.recipes.createoreexcavation.vein('{"text": "Oil Vein"}', 'modern_industrialization:crude_oil_bucket')
-        .placement(128, 32, 10000014)
+        .placement(128, 16, 10000014)
         .id("kubejs:vein_oil");
 
     event.recipes.createoreexcavation.extracting('1bx modern_industrialization:crude_oil', 'kubejs:vein_oil', 100)
@@ -138,7 +138,7 @@ ServerEvents.recipes(event => {
 
     // --- Shale Oil ---
     event.recipes.createoreexcavation.vein('{"text": "Shale Oil Vein"}', 'modern_industrialization:shale_oil_bucket')
-        .placement(128, 32, 10000015)
+        .placement(128, 16, 10000015)
         .id("kubejs:vein_shale_oil");
 
     event.recipes.createoreexcavation.extracting('1bx modern_industrialization:shale_oil', 'kubejs:vein_shale_oil', 100)

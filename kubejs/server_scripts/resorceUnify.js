@@ -103,3 +103,27 @@ rmTagViewer('createbigcannons:steel_ingot', 'modern_industrialization:steel_ingo
 rmTagViewer('createmetallurgy:steel_ingot', 'modern_industrialization:steel_ingot')
 
 rmTagViewer('createbigcannons:steel_scrap', 'modern_industrialization:steel_nugget')
+
+
+//Drills
+rmItem('modern_industrialization:steel_drill')
+rmItem('modern_industrialization:steel_drill_head')
+
+rmItem('modern_industrialization:bronze_drill')
+rmItem('modern_industrialization:bronze_drill_head')
+
+rmItem('modern_industrialization:gold_drill')
+rmItem('modern_industrialization:gold_drill_head')
+
+rmItem('modern_industrialization:copper_drill')
+rmItem('modern_industrialization:copper_drill_head')
+
+rmItem('modern_industrialization:steam_quarry')
+rmItem('modern_industrialization:electric_quarry')
+rmItem('modern_industrialization:oil_drilling_rig')
+
+ServerEvents.recipes(event => {
+    event.remove({type: 'modern_industrialization:quarry'})
+    event.remove({type: 'modern_industrialization:oil_drilling_rig'})
+
+})
