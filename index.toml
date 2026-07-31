@@ -1385,11 +1385,6 @@ hash = "537b2a5d9f4034d373c069d4331f4529356547a85f525c79484de6d4d41e26d3"
 metafile = true
 
 [[files]]
-file = "mods/c2me-ocl.pw.toml"
-hash = "c8420dc4fb5065aaa7ad437bcedfa5fa47611391fcb5b32e6d76d1af0c637e7d"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "0c098f4b25485f291dc218347f5076504ae6bff78debf29a4f6264b274d58a5b"
 metafile = true
