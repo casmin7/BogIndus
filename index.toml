@@ -2019,13 +2019,13 @@ hash = "3f85dddbfdc9c87ffecc6633df88c31bbcadcd1a5ff4adc03e1b14de06cb97c0"
 metafile = true
 
 [[files]]
-file = "mods/xaero-train-map.pw.toml"
-hash = "581005cdde98a6d0ec46fb5d86a259151e9838c3d30fcd41ea0dc8c4398f94ab"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "32b1e697a85ec5f1153d10220c8f88581810471989e1eff4b4fbd1e0724c6260"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "32b1e697a85ec5f1153d10220c8f88581810471989e1eff4b4fbd1e0724c6260"
+file = "mods/xaeros-playerposition.pw.toml"
+hash = "f405c1bc7b7bd4dd04890e868334b765412d1e46b05d95dd35d10d3a8dd4bf82"
 metafile = true
 
 [[files]]

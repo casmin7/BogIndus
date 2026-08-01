@@ -1,0 +1,13 @@
+name = "Xaeros playerposition"
+filename = "xaeros-playerposition-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dNLZ9VjB/versions/RyyM9dm3/xaeros-playerposition-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "2182e4f3baa59550c6ac35d3234e22d89c3efa6440ac476df6431f1879c153c20a2ed18d712d9a2e54acfb35d11598f84b68fe042936549d07045384edf14a6f"
+
+[update]
+[update.modrinth]
+mod-id = "dNLZ9VjB"
+version = "RyyM9dm3"
