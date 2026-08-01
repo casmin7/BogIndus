@@ -1795,6 +1795,11 @@ hash = "40e280329d8fc1d94224d039f14bf19cc43472fccc1e0eb35cdb85ae715fcbaf"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "a0a2036a901c1d61589768d62bc92d0cd630a40e9dfe92f45aefdc835c0c808d"
+metafile = true
+
+[[files]]
 file = "mods/merequester.pw.toml"
 hash = "174fcd4365762f21279a6cec351aa6b23dcce2bbe098c6b69006f76019b62448"
 metafile = true
@@ -1962,6 +1967,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "b2bdd7558fd44a5d7f24d1005f27119814761cf78135acefeb1625157ecee859"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "16d83873bed6c9301df009a4f21ba45f920d3fca7536e4cd8b719c73393209e8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "f1ac2f9ecce242d0f193db475dba673da2bd5ee04b59d3e750699e7b7c4d1f39"
 metafile = true
 
 [[files]]
