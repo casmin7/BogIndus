@@ -1865,16 +1865,6 @@ hash = "089eb79244d52a34771cf2ee53ecbd99b553569b26623b464679b67a7653f071"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark.pw.toml"
-hash = "232f7c77717ba691dd87661d830c40e6f60f99d04c0af6b75b128602e513da77"
-metafile = true
-
-[[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "92a299204f6b5bb0f39900d5866df154ad360b83a035060e25aec50baa6e305f"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "5db92d335ac2ebfdbe88b369b4b4350b616d3fb19d93dccbeabb481322b378d5"
 metafile = true
