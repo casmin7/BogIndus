@@ -1370,6 +1370,11 @@ hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
+metafile = true
+
+[[files]]
 file = "mods/black-early-loading-screen.pw.toml"
 hash = "42e72348dc8222321b6466b1902b0056219bd1bcf4df91d16ab026a0c73b8696"
 metafile = true
@@ -1962,6 +1967,11 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "766b572c04713db66db95499bb8d86554c57d0d57cf0220bbfbb82300cc2bf39"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
