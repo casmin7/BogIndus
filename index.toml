@@ -2000,9 +2000,8 @@ hash = "f9078d8b9bd442f8711d54eaea687efa3e8792dd6c173d448662a361d21ee2e8"
 metafile = true
 
 [[files]]
-file = "mods/tmrv.pw.toml"
-hash = "201514975b88822df0a4fbfed39b0a1d8bb6fc5c30886e43bfebabbaf3699811"
-metafile = true
+file = "mods/toomanyrecipeviewers-0.9.1-dev.2+mc.21.1.jar"
+hash = "f64cce7a4e8812995600fd6e8db525be7c379c6e14e5a0c3c0e942f30d6d1ffd"
 
 [[files]]
 file = "mods/treechop.pw.toml"
