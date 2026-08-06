@@ -1945,11 +1945,6 @@ hash = "83a7b840686a417dfe1161ee5cd918989dd2d901c9013bf85e93a30f597260f7"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "1c838d1869fcf4d590888e54e9f4647563bc1310f4fe519bd0beb875710f087d"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "32148d7004a01a704820246df770e8af50ba7e6baa61be12e3841c108d112a35"
 metafile = true
