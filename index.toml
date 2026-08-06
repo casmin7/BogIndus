@@ -1500,11 +1500,6 @@ hash = "9c112af813c1f7540c3d198f38c8733fb7d983f459b1d20e372402af16d07f7d"
 metafile = true
 
 [[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "186fa0c6300e433f434ca1aedafd2be8c57c577644c17456e1ed434ed5f719dc"
-metafile = true
-
-[[files]]
 file = "mods/create-electro-energetics.pw.toml"
 hash = "06786759d621223223494bea9f2c7b4a83bf48a01de8c6ebe56ec12e03b56b07"
 metafile = true
