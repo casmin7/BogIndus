@@ -1775,11 +1775,6 @@ hash = "5554dc0e228bb51557313dd1b0c9493c9e575390a6713a8f6415d3aede09cce0"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
-metafile = true
-
-[[files]]
 file = "mods/lever-drugster.pw.toml"
 hash = "8424713cff9ab8667f0c10791a3777aa331c7ea928c563a668b153cb7dbe3a67"
 metafile = true
