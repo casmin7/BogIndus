@@ -1960,6 +1960,11 @@ hash = "f3bf4cbcc66f7ee1d628b9f17dfc190d502a22efe92bf8079eaf5772b2a6b7ee"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/ssrd.pw.toml"
 hash = "766b572c04713db66db95499bb8d86554c57d0d57cf0220bbfbb82300cc2bf39"
 metafile = true
